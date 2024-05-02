@@ -2,7 +2,7 @@
 
 ## Scope of Area ##
 
-The mod's scope of area is defined as the **subnational entities** of nations with a **federal system** within the regions of **Australia, Oceania, North and South America**.  This however could be expanded to other federal systems, however these additions are to be considered after the main scope of area is completed.
+The mod's scope of area is defined as the **subnational entities** of nations with a **federal system** within the regions of **Australia, Oceania, North and South America**.  This could be expanded to other federal systems beyond this geographical limit, however these additions are to be considered after the main scope of area is completed.
 
 ## Political Systems ##
 
