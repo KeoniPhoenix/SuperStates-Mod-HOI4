@@ -16,9 +16,9 @@ Names of companies or businesses for the Design Companies shall be based on thei
 
 Where applicable, the Design Companies may only have defunct historical companies that either were headquartered or operated large operations even if they went defunct before the time period of the game.  This is foster variety and avoid repetition of company names.  If no such historical company existed for a particular playable state, an appropriate name and logo can be made.
 
-## Mission Trees ##
+## Focus Trees ##
 
-Mission trees shall follow a logical path between the focuses and avoid being cookie cutter or too similar in layout as others either from the base game or this mod.
+Focus trees shall follow a logical path between the focuses and avoid being cookie cutter or too similar in layout as others either from the base game or this mod.
 
 ## Formation Decisions ##
 
